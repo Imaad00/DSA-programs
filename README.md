@@ -1,2 +1,2 @@
 # DSA-programs
-Check readme
+Learned this Programs when i was in 2nd year
