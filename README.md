@@ -1,2 +1,2 @@
 # DSA-programs
-Learned this Programs when i was in 2nd year
+Learned these Programs when i was in 2nd year
